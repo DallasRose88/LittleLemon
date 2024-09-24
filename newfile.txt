@@ -1,0 +1,7 @@
+
+Hello Dmitrii! 
+git commit -m "Add newfile.txt file"
+
+
+
+
